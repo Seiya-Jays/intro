@@ -1,2 +1,4 @@
 テキストの追加
 git diff
+change
+git diff
